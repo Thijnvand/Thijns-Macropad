@@ -4,16 +4,14 @@ I have made a hackpad using Fusion and KiCad. I have made a simple construction 
 Overall, I like my creation and gained some skills from using KiCad and Fusion!
 This is my hackpad: 
 PCB and schematic:
-<img width="804" height="943" alt="image" src="https://github.com/user-attachments/assets/b3479115-0744-472e-a56d-2b68b12165aa" />
+<img width="777" height="859" alt="image" src="https://github.com/user-attachments/assets/3a491709-5981-4b4e-8a7f-6ece7bf06999" />
+<img width="1217" height="846" alt="image" src="https://github.com/user-attachments/assets/89fbe93c-3df9-4dfe-a5ef-75744ce89462" />
+
 
 
 
 CAD model:
-<img width="896" height="654" alt="image" src="https://github.com/user-attachments/assets/01e22387-8680-446b-8dfb-faa3ea31cf68" />
-<img width="800" height="623" alt="image" src="https://github.com/user-attachments/assets/8563dfd0-e691-46c2-8df0-be638430a5d3" />
-<img width="767" height="654" alt="image" src="https://github.com/user-attachments/assets/b4338258-9813-453e-8987-b52fcf7bd413" />
-<img width="801" height="783" alt="image" src="https://github.com/user-attachments/assets/428503b9-2a58-47ef-b3e9-5bd5757a287e" />
-
-
-
-<img width="864" height="659" alt="image" src="https://github.com/user-attachments/assets/b595d899-3177-423d-b5f7-5bb625974958" />
+<img width="893" height="468" alt="image" src="https://github.com/user-attachments/assets/45497fbf-31da-477e-9f5f-23c71a756a65" />
+<img width="893" height="574" alt="image" src="https://github.com/user-attachments/assets/b7bad936-29bd-41de-9af8-1393b2c9afcd" />
+<img width="886" height="658" alt="image" src="https://github.com/user-attachments/assets/7ef38928-9567-4a79-8890-79be01c219c5" />
+<img width="977" height="717" alt="image" src="https://github.com/user-attachments/assets/5302eb48-a712-4f1b-a18b-eb07ece6591b" />
